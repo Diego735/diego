@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 
 // Função para realizar a ordenação por inserção (Insertion Sort)
 void insertionSort(int array[], int tamanho) {
