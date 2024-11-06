@@ -45,6 +45,20 @@ int main() {
     return 0;
 }
 
+
+Explicação:
+Função insertionSort: Implementa o algoritmo Insertion Sort.
+Função printArray: Imprime os elementos de um array, para fins de verificação antes e após a ordenação (no exemplo, imprime apenas os 10 primeiros elementos).
+Medindo o tempo:
+A função clock() da biblioteca time.h é usada para medir o tempo de execução do algoritmo.
+O tempo de execução é calculado como a diferença entre o tempo antes e depois da execução do algoritmo, convertida para segundos.
+Geração de números aleatórios: O array é inicializado com números aleatórios para simular uma entrada típica.
+Tamanho do array: O exemplo usa um array de tamanho n = 10000, mas você pode ajustar conforme necessário.
+
+
+
+
+
 /*
 Ordenação por Inserção: O algoritmo de ordenação por inserção constrói uma sequência ordenada de elementos um de cada vez. Ele é eficiente para pequenos conjuntos de dados ou quando os dados estão quase ordenados.
 
