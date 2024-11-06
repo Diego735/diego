@@ -46,6 +46,9 @@ int main() {
 }
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Explicação:
 Função insertionSort: Implementa o algoritmo Insertion Sort.
 Função printArray: Imprime os elementos de um array, para fins de verificação antes e após a ordenação (no exemplo, imprime apenas os 10 primeiros elementos).
